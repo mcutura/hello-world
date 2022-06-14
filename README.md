@@ -1,8 +1,8 @@
 # hello-world
 ## Intro
-** Hello! **
+**Hello!**
 > It's important to greet first and introduce the world after.
->   -- * General practices 101 *
+>   --*General practices 101*
 
 ## About
 1. Say Hello
